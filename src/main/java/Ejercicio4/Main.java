@@ -1,7 +1,7 @@
 package Ejercicio4;
 
 /**
- *
+ *Ejecutar solo este main con clic derecho al main y luego Run file
  * @author Samuel
  */
 public class Main {
